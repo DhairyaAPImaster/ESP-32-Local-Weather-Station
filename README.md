@@ -8,7 +8,11 @@ An ESP 32 Project that uses a DHT11 temperature and humidity sensor module to fi
 
 ## DEMO VID!! --->
 
-https://youtube.com/shorts/xmrYK5b6QOQ?feature=share
+[Demo Video on youtube](https://youtube.com/shorts/xmrYK5b6QOQ?feature=share)
+
+(Or)
+
+[Demo Video in browser](https://github.com/user-attachments/assets/822c322d-b65e-434a-b876-691a4b4162e7)
 
 
 ## How It Works
@@ -122,7 +126,6 @@ Firmware file **(firmware.ino)** is in the `firmware/` folder.
 ## REAL LIFE PROJECT!!! ---> 
 
 
-https://github.com/user-attachments/assets/822c322d-b65e-434a-b876-691a4b4162e7
 <img width="720" height="1280" alt="WhatsApp Image 2026-10-04 at 6 23 40 PM" src="https://github.com/user-attachments/assets/902cf0ef-e17a-4890-bcdf-062ac0c0e947" />
 <img width="720" height="1280" alt="WhatsApp Image 2026-10-04 at 6 23 39 PM" src="https://github.com/user-attachments/assets/483162df-1fcd-4541-872f-d286cdbe821e" />
 <img width="959" height="470" alt="Screenshot 2026-10-04 171844" src="https://github.com/user-attachments/assets/fcc24f2b-e638-422d-bad4-67bd1743dd14" />
