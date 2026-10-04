@@ -87,7 +87,8 @@ The circuit diagram can be found in the `circuit diagram.png` file.
 
 Anyways here is a pic ---> 
 
-<img width="961" height="616" alt="image" src="https://github.com/user-attachments/assets/41c277c9-ee45-434f-84e6-2937ce6288f8" />
+<img width="481" height="308" alt="circuit diagram" src="https://github.com/user-attachments/assets/499954ff-c8d9-41a7-b9b7-e386e7703745" />
+
 
 
 
@@ -112,26 +113,25 @@ Firmware file **(firmware.ino)** is in the `firmware/` folder.
 
 
 ## ONLINE SIMULATION --->
+<img width="958" height="436" alt="Screenshot 2026-10-04 190002" src="https://github.com/user-attachments/assets/ac1cade1-7cbb-4133-9aa1-30403193fc2c" />
+<img width="481" height="308" alt="circuit diagram" src="https://github.com/user-attachments/assets/91cabbea-e095-4561-a8a8-341346fb8ab5" />
 
-<img width="958" height="436" alt="Screenshot 2026-10-04 190002" src="https://github.com/user-attachments/assets/45b59f0b-5252-416b-bced-7f711630cb7c" />
-<img width="961" height="616" alt="image" src="https://github.com/user-attachments/assets/db41070f-751e-4cce-a932-7dda51c402f2" />
 
 
 
 ## REAL LIFE PROJECT!!! ---> 
 
-<img width="959" height="470" alt="Screenshot 2026-10-04 171844" src="https://github.com/user-attachments/assets/1cafc67d-4ec0-45a6-b959-038205711a81" />
-<img width="707" height="399" alt="Screenshot 2026-10-04 171811" src="https://github.com/user-attachments/assets/5a8d73f4-ff57-43b7-aacc-2b26621d12cc" />
-<img width="959" height="503" alt="Screenshot 2026-10-04 164722" src="https://github.com/user-attachments/assets/7df7e30e-d2c0-41c8-89c5-8bccfcf9f912" />
-<img width="509" height="318" alt="Screenshot 2026-10-04 164643" src="https://github.com/user-attachments/assets/9bc5003e-31ab-4f3b-8c6d-2fb07c3b2c16" />
-<img width="458" height="260" alt="Screenshot 2026-10-04 164418" src="https://github.com/user-attachments/assets/769f3e58-ec33-447d-9be6-34ccaf8a4304" />
-<img width="959" height="174" alt="Screenshot 2026-10-04 164308" src="https://github.com/user-attachments/assets/5bbdd1a7-bb39-4a85-9dda-360c48c80936" />
 
+https://github.com/user-attachments/assets/822c322d-b65e-434a-b876-691a4b4162e7
+<img width="720" height="1280" alt="WhatsApp Image 2026-10-04 at 6 23 40 PM" src="https://github.com/user-attachments/assets/902cf0ef-e17a-4890-bcdf-062ac0c0e947" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-10-04 at 6 23 39 PM" src="https://github.com/user-attachments/assets/483162df-1fcd-4541-872f-d286cdbe821e" />
+<img width="959" height="470" alt="Screenshot 2026-10-04 171844" src="https://github.com/user-attachments/assets/fcc24f2b-e638-422d-bad4-67bd1743dd14" />
+<img width="707" height="399" alt="Screenshot 2026-10-04 171811" src="https://github.com/user-attachments/assets/27d1f93d-c44c-4df7-9095-38feeab2d694" />
+<img width="959" height="503" alt="Screenshot 2026-10-04 164722" src="https://github.com/user-attachments/assets/b0ba5164-1956-45cc-98c7-06812d7e3e2c" />
+<img width="509" height="318" alt="Screenshot 2026-10-04 164643" src="https://github.com/user-attachments/assets/d8bc1334-a093-4d3b-9654-1ff74eada5c4" />
+<img width="458" height="260" alt="Screenshot 2026-10-04 164418" src="https://github.com/user-attachments/assets/dd9e3a79-6e93-4751-beb2-64e398fdb4ea" />
+<img width="959" height="174" alt="Screenshot 2026-10-04 164308" src="https://github.com/user-attachments/assets/f478f31a-20ef-4fa6-9207-33f4f644ba11" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-10-04 at 6 23 41 PM" src="https://github.com/user-attachments/assets/a8d83258-ceb6-4996-b831-5c3d5878b399" />
 
-https://github.com/user-attachments/assets/4b3876cb-c1c6-48cd-be1d-b9be9bb9df20
-
-<img width="720" height="1280" alt="WhatsApp Image 2026-10-04 at 6 23 41 PM" src="https://github.com/user-attachments/assets/d688ab3e-eba6-42f9-9da4-4bba487e0c9e" />
-<img width="720" height="1280" alt="WhatsApp Image 2026-10-04 at 6 23 40 PM" src="https://github.com/user-attachments/assets/3cdab462-2808-42ad-835c-6134cec4ae2c" />
-<img width="720" height="1280" alt="WhatsApp Image 2026-10-04 at 6 23 39 PM" src="https://github.com/user-attachments/assets/90da4efa-ee0d-41b5-b9c0-5edb8c8b91fb" />
 
 
